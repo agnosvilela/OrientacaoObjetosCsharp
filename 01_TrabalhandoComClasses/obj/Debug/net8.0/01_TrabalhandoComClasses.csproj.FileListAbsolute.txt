@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\01_TrabalhandoComClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\01_TrabalhandoComClasses.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\01_TrabalhandoComClasses.AssemblyInfo.cs
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\01_TrabalhandoComClasses.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\01_TrabalhandoComClasses.sourcelink.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\bin\Debug\net8.0\01_TrabalhandoComClasses.exe
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\bin\Debug\net8.0\01_TrabalhandoComClasses.deps.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\bin\Debug\net8.0\01_TrabalhandoComClasses.runtimeconfig.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\bin\Debug\net8.0\01_TrabalhandoComClasses.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\bin\Debug\net8.0\01_TrabalhandoComClasses.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\01_TrabalhandoComClasses.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\refint\01_TrabalhandoComClasses.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\01_TrabalhandoComClasses.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\01_TrabalhandoComClasses.genruntimeconfig.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\01_TrabalhandoComClasses\obj\Debug\net8.0\ref\01_TrabalhandoComClasses.dll
