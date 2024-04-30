@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\bin\Debug\net8.0\OrientacaoObjetosCsharp.exe
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\bin\Debug\net8.0\OrientacaoObjetosCsharp.deps.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\bin\Debug\net8.0\OrientacaoObjetosCsharp.runtimeconfig.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\bin\Debug\net8.0\OrientacaoObjetosCsharp.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\bin\Debug\net8.0\OrientacaoObjetosCsharp.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\OrientacaoObjetosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\OrientacaoObjetosCsharp.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\OrientacaoObjetosCsharp.AssemblyInfo.cs
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\OrientacaoObjetosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\OrientacaoObjetosCsharp.sourcelink.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\OrientacaoObjetosCsharp.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\refint\OrientacaoObjetosCsharp.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\OrientacaoObjetosCsharp.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\OrientacaoObjetosCsharp.genruntimeconfig.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\obj\Debug\net8.0\ref\OrientacaoObjetosCsharp.dll
