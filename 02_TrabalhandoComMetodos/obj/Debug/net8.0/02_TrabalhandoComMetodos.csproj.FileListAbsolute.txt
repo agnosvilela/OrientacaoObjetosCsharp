@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\02_TrabalhandoComMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\02_TrabalhandoComMetodos.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\02_TrabalhandoComMetodos.AssemblyInfo.cs
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\02_TrabalhandoComMetodos.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\02_TrabalhandoComMetodos.sourcelink.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\bin\Debug\net8.0\02_TrabalhandoComMetodos.exe
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\bin\Debug\net8.0\02_TrabalhandoComMetodos.deps.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\bin\Debug\net8.0\02_TrabalhandoComMetodos.runtimeconfig.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\bin\Debug\net8.0\02_TrabalhandoComMetodos.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\bin\Debug\net8.0\02_TrabalhandoComMetodos.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\02_TrabalhandoComMetodos.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\refint\02_TrabalhandoComMetodos.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\02_TrabalhandoComMetodos.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\02_TrabalhandoComMetodos.genruntimeconfig.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\02_TrabalhandoComMetodos\obj\Debug\net8.0\ref\02_TrabalhandoComMetodos.dll
