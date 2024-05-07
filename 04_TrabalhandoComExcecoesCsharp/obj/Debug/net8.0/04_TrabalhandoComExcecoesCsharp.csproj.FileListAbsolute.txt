@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.AssemblyInfo.cs
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.sourcelink.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\bin\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.exe
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\bin\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.deps.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\bin\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.runtimeconfig.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\bin\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\bin\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\refint\04_TrabalhandoComExcecoesCsharp.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\04_TrabalhandoComExcecoesCsharp.genruntimeconfig.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\04_TrabalhandoComExcecoesCsharp\obj\Debug\net8.0\ref\04_TrabalhandoComExcecoesCsharp.dll
