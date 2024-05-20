@@ -8,7 +8,7 @@ namespace TrabalhandoComClasses
     {
         // adicionando as propriedades na classe
         public string Nome;
-        public int idade;
+        public int Idade;
     }
     class Program
     {
@@ -18,10 +18,10 @@ namespace TrabalhandoComClasses
         {
             var aluno1 = new Aluno();
             aluno1.Nome = "Agnos vilela";
-            aluno1.idade = 32;
+            aluno1.Idade = 32;
 
             Console.WriteLine(aluno1.Nome);
-            Console.WriteLine(aluno1.idade + " " + "Anos de idade.");
+            Console.WriteLine(aluno1.Idade + " " + "Anos de idade.");
         }
     }
 }
