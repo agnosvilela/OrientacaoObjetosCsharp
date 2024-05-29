@@ -4,24 +4,25 @@ using System;
 namespace TrabalhandoComClasses
 {
     // criando uma classe
-    class Aluno
-    {
-        // adicionando as propriedades na classe
-        public string Nome;
-        public int Idade;
-    }
+
     class Program
     {
         // instanciação e criação do objeto
 
         static void Main(string[] args)
         {
-            var aluno1 = new Aluno();
-            aluno1.Nome = "Agnos vilela";
-            aluno1.Idade = 32;
+            var conta1 = new Conta();
+            Console.WriteLine("Informe a Data de Abertura: ");
+            conta1.DataAbertura = Convert.ToDateTime(Console.ReadLine());
+            Console.WriteLine("Informe o número da conta: ");
+            conta1.Numero = Convert.ToString(Console.ReadLine());
+            Console.WriteLine("Informe o saldo da conta: ");
+            conta1.Saldo = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(aluno1.Nome);
-            Console.WriteLine(aluno1.Idade + " " + "Anos de idade.");
+            Console.WriteLine($"A Data  de abertura  conta é : {conta1.DataAbertura}");
+            Console.WriteLine($"Numero da sua conta é : {conta1.Numero}");
+            Console.WriteLine($"o saldo da sua conta é : {conta1.Saldo}");
+
         }
     }
 }
