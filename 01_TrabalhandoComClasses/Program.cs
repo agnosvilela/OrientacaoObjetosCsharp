@@ -18,8 +18,15 @@ namespace TrabalhandoComClasses
             Console.WriteLine("Informe o saldo da conta: ");
             conta1.Saldo = Convert.ToInt32(Console.ReadLine());
 
-            conta1.ExibirExtrato();
-
+            Console.WriteLine(conta1.ExibirExtrato());
+            conta1.Depositar(500);
+            Console.WriteLine(conta1.ExibirExtrato());
+            conta1.Sacar(80);
+            Console.WriteLine(conta1.ExibirExtrato());
+            conta1.RealizarEmprestimo(200, 10);
+            Console.WriteLine(conta1.ExibirExtrato());
+            Console.WriteLine(Conta.TaxaRendimento);
+            Console.WriteLine(Conta.CalcularRendimento(100, 12));
         }
     }
 }
