@@ -7,7 +7,13 @@ namespace ContasBancarias
         public string Numero;
         public DateTime DataAbertura;
         public decimal Saldo;
+        // construtor da classe
+        public Conta()
+        {
+            Console.WriteLine(" construtor da classe Inicializado.");
+        }
         // metodos com retorno
+
         public string ExibirExtrato()
         {
             return $"Conta Nº: {Numero}{Environment.NewLine} "
