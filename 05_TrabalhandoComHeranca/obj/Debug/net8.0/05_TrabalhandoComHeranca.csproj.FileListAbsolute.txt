@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\05_TrabalhandoComHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\05_TrabalhandoComHeranca.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\05_TrabalhandoComHeranca.AssemblyInfo.cs
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\05_TrabalhandoComHeranca.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\05_TrabalhandoComHeranca.sourcelink.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\bin\Debug\net8.0\05_TrabalhandoComHeranca.exe
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\bin\Debug\net8.0\05_TrabalhandoComHeranca.deps.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\bin\Debug\net8.0\05_TrabalhandoComHeranca.runtimeconfig.json
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\bin\Debug\net8.0\05_TrabalhandoComHeranca.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\bin\Debug\net8.0\05_TrabalhandoComHeranca.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\05_TrabalhandoComHeranca.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\refint\05_TrabalhandoComHeranca.dll
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\05_TrabalhandoComHeranca.pdb
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\05_TrabalhandoComHeranca.genruntimeconfig.cache
+C:\Users\agnos\Desktop\OrientacaoObjetosCsharp\05_TrabalhandoComHeranca\obj\Debug\net8.0\ref\05_TrabalhandoComHeranca.dll
